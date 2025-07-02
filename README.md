@@ -4,7 +4,7 @@
 
 - 🛠️ I'm working on various **Data Analysis and Data Science projects**
 - 🧑‍🤝‍🧑 I'm looking to collaborate on **Data Analytics projects**
-- 📁 All of my projects are available at [https://github.com/shefalideshpande](https://github.com/shefalideshpande)
+- 📁 All of my projects are available at [https://github.com/shefalideshpande](https://github.com/deshpandeshefali)
 - 📧 How to reach me **dshef20@gmail.com**
 - ⚡ Fun fact: **"I’m a quick learner on a data journey, fueled by curiosity—when I’m not reading comics or automating my way around my lazy side."**
 
