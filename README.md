@@ -27,10 +27,58 @@
 
 ### 📌 Featured Projects
 
-▶️ [Performace Employee Tracker](https://github.com/deshpandeshefali/Performace-employee-tracker)
+#### 📉 Performance Employee Tracker  
+**Tool Used:** Power BI  
+Analyzed customer data to identify key business insights and segment customers based on their purchasing behaviors.  
+Created a dashboard with visual KPIs, filters, and drill-through pages to explore trends.  
 
+⭐ **Goal:** Help businesses understand customer trends and behavior for better decision-making.  
+
+▶️ [Performance Employee Tracker](https://github.com/deshpandeshefali/Performace-employee-tracker)
 
 ---
+
+#### 📊 Data Analysis Dashboard  
+**Tool Used:** Power BI  
+Built a beginner-friendly dashboard to uncover insights from survey data about job roles, programming preferences, salary ranges, and demographics.  
+Used Power Query and DAX to clean and model the data.  
+
+⭐ **Goal:** Derive actionable insights about developer trends and industry benchmarks.  
+
+▶️ [View Project](https://github.com/deshpandeshefali/Data-Analysis-Dashboard)
+
+---
+
+#### 🛍 Ecommerce SQL + Python Project  
+**Tools Used:** SQL, Python  
+Imported CSV data into SQL for querying business KPIs, and visualized results using Python libraries.  
+Covered order trends, revenue metrics, category performance, and user behavior.  
+
+⭐ **Goal:** Leverage SQL + Python for analyzing e-commerce performance end-to-end.  
+
+▶️ [View Project](https://github.com/deshpandeshefali/Ecommerce-sql-python-project)
+
+---
+
+#### 🍕 Pizza Sales SQL + Power BI Dashboard  
+**Tools Used:** SQL, Power BI  
+Analyzed pizza sales data (Jan–Dec 2015) using SQL queries and built an interactive Power BI dashboard.  
+Covered most ordered items, peak days/months, top-selling pizzas, and revenue trends.  
+
+⭐ **Goal:** Identify high-performing pizza categories and boost sales through insight-driven strategy.  
+
+▶️ [View Project](https://github.com/deshpandeshefali/pizza-sales-sql-powerbi)
+
+---
+
+#### 🏦 Bank Loan Performance Dashboard  
+**Tool Used:** Power BI  
+Analyzed loan application data to assess performance, risk categories, and repayment behavior.  
+Used DAX and KPIs to highlight risk zones, approval ratios, and repayment trends.  
+
+⭐ **Goal:** Support financial decision-making through an interactive and insightful loan analysis dashboard.  
+
+▶️ [View Project](https://github.com/deshpandeshefali/Bank-Loan-Performance-Power-Bi)
 
 ### 📊 GitHub Stats
 
