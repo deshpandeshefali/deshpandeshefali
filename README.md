@@ -27,56 +27,42 @@
 
 ### 📌 Featured Projects
 
-#### 📉 Performance Employee Tracker  
+<details>
+<summary>📊 <strong>Performance Employee Tracker (Power BI)</strong></summary>
+
 **Tool Used:** Power BI  
 Analyzed customer data to identify key business insights and segment customers based on their purchasing behaviors.  
-Created a dashboard with visual KPIs, filters, and drill-through pages to explore trends.  
+Created dashboard visuals for trend monitoring and customer segmentation.  
 
-⭐ **Goal:** Help businesses understand customer trends and behavior for better decision-making.  
+⭐ **Goal:** Help businesses understand customer trends and optimize operations.  
 
-▶️ [Performance Employee Tracker](https://github.com/deshpandeshefali/Performace-employee-tracker)
-
----
-
-#### 📊 Data Analysis Dashboard  
-**Tool Used:** Power BI  
-Built a beginner-friendly dashboard to uncover insights from survey data about job roles, programming preferences, salary ranges, and demographics.  
-Used Power Query and DAX to clean and model the data.  
-
-⭐ **Goal:** Derive actionable insights about developer trends and industry benchmarks.  
-
-▶️ [View Project](https://github.com/deshpandeshefali/Data-Analysis-Dashboard)
+▶️ [View Project](https://github.com/deshpandeshefali/Performace-employee-tracker)
+</details>
 
 ---
 
-#### 🛍 Ecommerce SQL + Python Project  
+<details>
+<summary>🛒 <strong>Ecommerce SQL + Python Project</strong></summary>
+
 **Tools Used:** SQL, Python  
-Imported CSV data into SQL for querying business KPIs, and visualized results using Python libraries.  
-Covered order trends, revenue metrics, category performance, and user behavior.  
+Analyzed e-commerce data from CSV files using SQL for queries and Python for data cleaning and visualization.  
+Focused on order trends, customer behavior, and sales metrics.  
 
-⭐ **Goal:** Leverage SQL + Python for analyzing e-commerce performance end-to-end.  
+⭐ **Goal:** Practice end-to-end data analysis using real-world online retail data.  
 
-<summary>▶️ [View Project](https://github.com/deshpandeshefali/Ecommerce-sql-python-project) </summary>
-
----
-
-#### 🍕 Pizza Sales SQL + Power BI Dashboard  
-**Tools Used:** SQL, Power BI  
-Analyzed pizza sales data (Jan–Dec 2015) using SQL queries and built an interactive Power BI dashboard.  
-Covered most ordered items, peak days/months, top-selling pizzas, and revenue trends.  
-
-⭐ **Goal:** Identify high-performing pizza categories and boost sales through insight-driven strategy.  
-
-▶️ [View Project](https://github.com/deshpandeshefali/pizza-sales-sql-powerbi)
+▶️ [View Project](https://github.com/deshpandeshefali/Ecommerce-sql-python-project)
+</details>
 
 ---
 
-#### 🏦 Bank Loan Performance Dashboard  
+<details>
+<summary>🏦 <strong>Bank Loan Performance Dashboard (Power BI)</strong></summary>
+
 **Tool Used:** Power BI  
-Analyzed loan application data to assess performance, risk categories, and repayment behavior.  
-Used DAX and KPIs to highlight risk zones, approval ratios, and repayment trends.  
+Analyzed loan application data to assess trends, risk segments, and repayment behavior.  
+Built an interactive dashboard using KPIs, slicers, and visual summaries.  
 
-⭐ **Goal:** Support financial decision-making through an interactive and insightful loan analysis dashboard.  
+⭐ **Goal:** Provide business intelligence on loan performance and identify high-risk areas.  
 
 ▶️ [View Project](https://github.com/deshpandeshefali/Bank-Loan-Performance-Power-Bi)
-
+</details>
