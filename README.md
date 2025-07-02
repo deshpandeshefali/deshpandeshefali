@@ -12,7 +12,10 @@
 
 ### 📩 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/shefali-deshpande)
+### 📩 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shefali-deshpande)
+
 
 ---
 
@@ -103,6 +106,6 @@ I'm always excited to collaborate on data-driven projects, dashboards, or anythi
 If you have an idea or opportunity, feel free to reach out!
 
 📫 **Email:** dshef20@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/shefali-deshpande) • [GitHub](https://github.com/deshpandeshefali)
+🔗  [LinkedIn](https://www.linkedin.com/in/shefali-deshpande)  • [GitHub](https://github.com/deshpandeshefali)
 
 _Thanks for visiting my GitHub profile! ⭐_
