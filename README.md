@@ -18,9 +18,8 @@
 
 ### 🛠 Languages and Tools:
 
-![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=MySQL&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=Power-BI&logoColor=black)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=Microsoft-Excel&logoColor=white)
 
@@ -28,10 +27,8 @@
 
 ### 📌 Featured Projects
 
-- 🗂 [Customer Churn Prediction (Excel)](#)
-- 🍕 [Pizza Sales Dashboard (Excel)](#)
-- 📱 [Google Play Store App Analysis (Power BI)](#)
-- 👥 [HR Management Insights (Power BI) (Tableau) (SQL)](#)
+▶️ [Performace Employee Tracker](https://github.com/deshpandeshefali/Performace-employee-tracker)
+
 
 ---
 
