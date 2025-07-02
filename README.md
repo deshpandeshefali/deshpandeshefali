@@ -56,7 +56,7 @@ Covered order trends, revenue metrics, category performance, and user behavior.
 
 ⭐ **Goal:** Leverage SQL + Python for analyzing e-commerce performance end-to-end.  
 
-▶️ [View Project](https://github.com/deshpandeshefali/Ecommerce-sql-python-project)
+<summary>▶️ [View Project](https://github.com/deshpandeshefali/Ecommerce-sql-python-project) </summary>
 
 ---
 
@@ -80,7 +80,3 @@ Used DAX and KPIs to highlight risk zones, approval ratios, and repayment trends
 
 ▶️ [View Project](https://github.com/deshpandeshefali/Bank-Loan-Performance-Power-Bi)
 
-### 📊 GitHub Stats
-
-```markdown
-![Shefali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shefalideshpande&show_icons=true&theme=tokyonight)
