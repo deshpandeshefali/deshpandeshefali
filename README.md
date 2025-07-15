@@ -6,7 +6,10 @@
 - 🧑‍🤝‍🧑 I'm looking to collaborate on **Data Analytics projects**
 - 📁 All of my projects are available at [https://github.com/shefalideshpande](https://github.com/deshpandeshefali)
 - 📧 How to reach me **dshef20@gmail.com**
-- ⚡ Fun fact: **"I’m a quick learner on a data journey, fueled by curiosity—when I’m not reading comics or automating my way around my lazy side."**
+- ⚡ Fun fact:
+- **I’m a quick learner and I love reading.**
+- **I love badminton and anime.**
+- **One Piece is my favorite anime.**
 
 ---
 
