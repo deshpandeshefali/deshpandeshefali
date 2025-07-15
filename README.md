@@ -9,7 +9,6 @@
 - ⚡ Fun fact:
 ✨ I’m a quick learner and I love **reading**. 
 🏸 I love **badminton** and **anime.** 
-🏴‍☠️ **One Piece** is my favorite anime. 
 
 ---
 
