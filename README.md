@@ -7,9 +7,9 @@
 - 📁 All of my projects are available at [https://github.com/shefalideshpande](https://github.com/deshpandeshefali)
 - 📧 How to reach me **dshef20@gmail.com**
 - ⚡ Fun fact:
--✨ I’m a quick learner and I love **reading**. 
--🏸 I love **badminton** and **anime.** 
--🏴‍☠️ **One Piece** is my favorite anime. 
+✨ I’m a quick learner and I love **reading**. 
+🏸 I love **badminton** and **anime.** 
+🏴‍☠️ **One Piece** is my favorite anime. 
 
 ---
 
