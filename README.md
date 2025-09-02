@@ -113,6 +113,16 @@ Used Power Query and DAX to clean and model the data.
 
 ---
 
+### 📊 GitHub Stats
+
+![Shefali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deshpandeshefali&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deshpandeshefali&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=deshpandeshefali&theme=radical)
+
+---
+
 ### 🚀 Let's Connect & Collaborate!
 
 I'm always excited to collaborate on data-driven projects, dashboards, or anything related to analytics and storytelling.  
