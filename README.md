@@ -31,6 +31,19 @@
 ### 📌 Featured Projects
 
 <details>
+<summary>📊 <strong>PepsiCo Social Media Analytics Dashboard (Excel)</strong></summary>
+
+**Tools Used:** Microsoft Excel (Pivot Tables, Charts, Data Cleaning, Correlation Analysis)  
+Analyzed PepsiCo's multi-platform social media data (Instagram, Twitter, Facebook, YouTube) to evaluate engagement, campaign effectiveness, hashtag impact, and follower growth trends.  
+
+⭐ **Goal:** Provide actionable insights to optimize advertising budget, enhance content strategy, and improve audience retention across platforms.  
+
+▶️ [View Project](https://github.com/deshpandeshefali/Social-Media-Analytics-Excel)
+</details>
+
+---
+
+<details>
 <summary>🏦 <strong>Pizza Sales Analysis Dashboard (Power BI)</strong></summary>
 
 **Tools Used:** SQL, Power BI  
