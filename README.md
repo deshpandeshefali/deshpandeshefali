@@ -119,8 +119,6 @@ Used Power Query and DAX to clean and model the data.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deshpandeshefali&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=deshpandeshefali&theme=radical)
-
 ---
 
 ### 🚀 Let's Connect & Collaborate!
